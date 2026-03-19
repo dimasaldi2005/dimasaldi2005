@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Halo, saya Dimas
 
-<!--
-**dimasaldi2005/dimasaldi2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa Teknik Informatika  
+💻 Fokus: Web Developer & IoT  
 
-Here are some ideas to get you started:
+### 🚀 Project Saya
+- IoT Smart Breaker
+- Sistem Informasi Laundry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skill
+- Laravel
+- Flutter
+- MySQL
+
+### 📫 Kontak
+- Email: (isi email kamu)
