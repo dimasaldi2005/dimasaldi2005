@@ -14,3 +14,7 @@
 
 ### 📫 Kontak
 - Email: (isi email kamu)
+
+![Laravel](https://img.shields.io/badge/Laravel-red)
+![Flutter](https://img.shields.io/badge/Flutter-blue)
+![MySQL](https://img.shields.io/badge/MySQL-orange)
