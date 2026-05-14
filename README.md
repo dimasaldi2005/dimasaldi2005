@@ -1,133 +1,93 @@
-<!-- CUSTOM CULTURE HEADER -->
+````html
+<!-- ULTRA MODERN CYBER HEADER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,25:0f0c29,50:302b63,75:24243e,100:000000&text=DIMAS%20WAHYU%20KURNIAWAN&fontColor=00F5FF&fontSize=42&animation=twinkling&fontAlignY=38&desc=Fullstack%20Developer%20•%20IoT%20Engineer%20•%20Creative%20Technologist&descAlignY=58&descSize=18"/>
+
+<!-- TERMINAL BOOT -->
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,50:203A43,100:2C5364&text=DIMAS%20WAHYU%20KURNIAWAN&fontColor=00F5FF&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Trenggalek%20Native%20•%20Web%20Developer%20•%20IoT%20Engineer&descAlignY=58&descSize=18"
-    width="100%"
-  />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=700&color=00F5FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%24+Initializing+System...;%24+Loading+Dimas+Portfolio...;%24+Connecting+to+GitHub+Network...;%24+Access+Granted+✓" />
 </p>
 
-<!-- TYPING TERMINAL -->
+<!-- CYBER DIVIDER -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F5FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%24+booting+dimas.exe;%24+connecting+to+Trenggalek...;%24+loading+Turonggo+Yakso+spirit;%24+welcome+to+my+digital+world" />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-5f00-4f89-bc5b-1f53c0c8e4f4.gif">
 </p>
 
-<!-- HERO IMAGE -->
-
-<p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true">
-</p>
-
-<h1 align="center">⚡ Hi, I'm Dimas ⚡</h1>
+<h1 align="center">⚡ DIGITAL CRAFTSMAN ⚡</h1>
 
 <h3 align="center">
-💻 Fullstack Developer • 🌐 IoT Enthusiast • 🐎 Spirit of Turonggo Yakso
+🚀 Building Modern Applications with Creativity & Innovation
 </h3>
 
 ---
 
-# 🐎 About Me
+# 🧠 SYSTEM PROFILE
 
-<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRjNzQ0YjgxY2Q5NmJkYzAxN2E5NzRkMjk2OTQ2Y2YzYWE2NDUwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
-```bash
-> Name        : Dimas Wahyu Kurniawan
-> Origin      : Trenggalek, East Java
-> Culture     : Turonggo Yakso Heritage
-> Role        : Web Developer & IoT Engineer
-> Stack       : Laravel • Flutter • MySQL
-> Passion     : Smart Systems & Modern UI
-> Motto       : Traditional Spirit, Digital Innovation
+```yaml
+name: Dimas Aldi Saputra
+role: Fullstack Developer
+focus:
+  - Laravel Ecosystem
+  - Flutter Mobile Apps
+  - Internet of Things
+location: Indonesia
+mindset: "Code • Build • Innovate"
+currently_learning:
+  - Clean Architecture
+  - Modern UI/UX
+  - Smart IoT Systems
 ````
 
 ---
 
-# 🌋 Trenggalek Culture Vibes
+# 🚀 FEATURED PROJECTS
 
-<p align="center">
+### ⚡ IoT Smart Breaker
 
-🖤 Bringing the spirit of
-🐎 "Jaranan Turonggo Yakso"
-into the world of technology and innovation.
+Smart monitoring and control system using IoT technology.
 
-</p>
+### 🧺 Laundry Information System
 
----
+Modern management dashboard with responsive interface.
 
-# 🚀 Featured Projects
+### 📱 Flutter Mobile Apps
 
-<div align="center">
+Cross-platform application with clean modern UI.
 
-| 🚀 Project                    | 📄 Description                        |
-| ----------------------------- | ------------------------------------- |
-| ⚡ IoT Smart Breaker           | Smart electricity monitoring with IoT |
-| 🧺 Laundry Information System | Modern dashboard management system    |
-| 📱 Flutter Mobile App         | Clean UI mobile application           |
+### 🌐 Web Development
 
-</div>
+Building scalable and elegant web systems.
 
 ---
 
-# ⚒️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,flutter,dart,php,mysql,firebase,html,css,js,git,github,vscode,figma"/>
-</p>
+# ⚒️ TECH ECOSYSTEM
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimasaldi2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dimasaldi2005&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</p>
+# 📊 GITHUB ANALYTICS
 
 ---
 
-# 🧬 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dimasaldi2005&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-</p>
+# 🧬 CONTRIBUTION MATRIX
 
 ---
 
-# 🐍 Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+# 🐍 SNAKE EATING CONTRIBUTIONS
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/dimasaldi2005">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:yourgmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://instagram.com/USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-</p>
+# 🌌 DIGITAL VISUAL
 
 ---
 
-<h3 align="center">
+# 🌐 CONNECT WITH ME
 
-🔥 "Traditional Culture Meets Digital Innovation" 🔥
+---
 
-</h3>
-```
+---
+
+⚡ "Turning Ideas Into Digital Reality" ⚡
