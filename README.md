@@ -1,4 +1,3 @@
-````html
 <!-- ULTRA MODERN CYBER HEADER -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,25:0f0c29,50:302b63,75:24243e,100:000000&text=DIMAS%20WAHYU%20KURNIAWAN&fontColor=00F5FF&fontSize=42&animation=twinkling&fontAlignY=38&desc=Fullstack%20Developer%20•%20IoT%20Engineer%20•%20Creative%20Technologist&descAlignY=58&descSize=18"/>
