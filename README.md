@@ -1,4 +1,3 @@
-````html id="t6z9rv"
 <!-- CUSTOM CULTURE HEADER -->
 
 <p align="center">
