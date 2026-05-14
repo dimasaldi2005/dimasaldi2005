@@ -1,92 +1,83 @@
-<!-- ULTRA MODERN CYBER HEADER -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,25:0f0c29,50:302b63,75:24243e,100:000000&text=DIMAS%20WAHYU%20KURNIAWAN&fontColor=00F5FF&fontSize=42&animation=twinkling&fontAlignY=38&desc=Fullstack%20Developer%20•%20IoT%20Engineer%20•%20Creative%20Technologist&descAlignY=58&descSize=18"/>
-
-<!-- TERMINAL BOOT -->
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=700&color=00F5FF&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%24+Initializing+System...;%24+Loading+Dimas+Portfolio...;%24+Connecting+to+GitHub+Network...;%24+Access+Granted+✓" />
-</p>
-
-<!-- CYBER DIVIDER -->
-
-<p align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-5f00-4f89-bc5b-1f53c0c8e4f4.gif">
-</p>
-
-<h1 align="center">⚡ DIGITAL CRAFTSMAN ⚡</h1>
+<h1 align="center">Hi 👋, I'm Dimas</h1>
 
 <h3 align="center">
-🚀 Building Modern Applications with Creativity & Innovation
+🚀 Informatics Engineering Student | Web Developer | IoT Enthusiast
 </h3>
 
----
-
-# 🧠 SYSTEM PROFILE
-
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRjNzQ0YjgxY2Q5NmJkYzAxN2E5NzRkMjk2OTQ2Y2YzYWE2NDUwYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
-
-```yaml
-name: Dimas Aldi Saputra
-role: Fullstack Developer
-focus:
-  - Laravel Ecosystem
-  - Flutter Mobile Apps
-  - Internet of Things
-location: Indonesia
-mindset: "Code • Build • Innovate"
-currently_learning:
-  - Clean Architecture
-  - Modern UI/UX
-  - Smart IoT Systems
-````
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile;Laravel+Developer;Flutter+Enthusiast;IoT+Explorer;Always+Learning+New+Things" />
+</p>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+## 🧑‍💻 About Me
 
-### ⚡ IoT Smart Breaker
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Smart monitoring and control system using IoT technology.
-
-### 🧺 Laundry Information System
-
-Modern management dashboard with responsive interface.
-
-### 📱 Flutter Mobile Apps
-
-Cross-platform application with clean modern UI.
-
-### 🌐 Web Development
-
-Building scalable and elegant web systems.
+- 🎓 Informatics Engineering Student  
+- 💡 Interested in **Web Development & Internet of Things**  
+- 🌱 Currently learning **Flutter & Laravel Ecosystem**  
+- ⚡ Love building modern UI & smart systems  
+- 🚀 Passionate about technology and innovation  
 
 ---
 
-# ⚒️ TECH ECOSYSTEM
+## 🚀 Featured Projects
+
+### 🔹 IoT Smart Breaker
+Smart electrical breaker monitoring system using IoT technology.
+
+### 🔹 Laundry Information System
+Modern laundry management system with responsive dashboard.
 
 ---
 
-# 📊 GITHUB ANALYTICS
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,flutter,dart,php,mysql,firebase,html,css,js,git,github,vscode" />
+
+</p>
 
 ---
 
-# 🧬 CONTRIBUTION MATRIX
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 🐍 SNAKE EATING CONTRIBUTIONS
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-# 🌌 DIGITAL VISUAL
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  
+  <a href="https://github.com/USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
-# 🌐 CONNECT WITH ME
-
----
-
----
-
-⚡ "Turning Ideas Into Digital Reality" ⚡
+<p align="center">
+✨ “Code. Create. Innovate.” ✨
+</p>
